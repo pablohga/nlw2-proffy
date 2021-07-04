@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/gabrielpulga/nlw2-proffy/blob/master/.github/logo.svg" alt"Proffy" title="Proffy" />
+  <img src="https://github.com/pablohga/nlw2-proffy/blob/master/.github/logo.svg" alt"Proffy" title="Proffy" />
 
  :rocket: *Project made to connect students to teachers.*
   </div>
@@ -29,7 +29,7 @@ This project was made using the following technologies:
 
 ```bash
 # Clone repository into your machine
-$ git clone https://github.com/gabrielpulga/nlw2-proffy.git
+$ git clone https://github.com/pablohga/nlw2-proffy.git
 ```
 
 ### 💻 Running project on a web browser
@@ -100,7 +100,7 @@ $ yarn start or npm run start
 
 Released in 2020.
 
-Made with passion by [Gabriel Pulga](https://github.com/gabrielpulga) 🚀.
-This project is under the [MIT license](https://github.com/gabrielpulga/nlw2-proffy/blob/master/LICENSE).
+Made with passion by [Pablo Azevedo](https://github.com/pablohga) 🚀.
+This project is under the [MIT license](https://github.com/pablohga/nlw2-proffy/blob/master/LICENSE).
 
 Give it a ⭐️ if this project helped you!
